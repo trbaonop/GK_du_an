@@ -1,0 +1,6 @@
+=== BÁO CÁO CHI TIÊU ===
+Tổng số tiền đã chi: 356 VNĐ
+Các món hàng đã chi tiêu:
+  - táo: 233 VNĐ
+  - iphon: 123 VNĐ
+Món hàng đắt nhất: táo (233 VNĐ)
